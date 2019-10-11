@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://thookeeka.rchelwong.com/sitemap.xml
